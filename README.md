@@ -42,6 +42,13 @@ understand it:
 Note that this description of the problem highlights the inputs and output
 (return value), and gives us some ideas to explore later in our pseudocode.
 
+'''
+Want to declare a function 'hasTargetSum'
+the function will take in two arguments an array full of integers and a target integer
+if any two numbers in the array add up to our target integer, I want to return true
+if that is not the case, I want to return false 
+'''
+
 ### 2. Write Your Own Test Cases
 
 Next, let's write a few test cases. Once again, let's consider what
